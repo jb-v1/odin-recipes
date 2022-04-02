@@ -1,0 +1,17 @@
+h1 {
+    font-size: 38px;
+    color: rgb(255,0,0);
+    font-family: Georgia, helvetica, sans-serif;
+    text-align: center;
+}
+
+li {
+    color:rgb(161,161,161);
+}
+
+a {
+    text-decoration: none;
+    font-size: 16px;
+    color: rgb(50,50,50);
+    font-family: Georgia, helvetica, sans-serif;
+}
